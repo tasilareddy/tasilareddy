@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tasila Poorna Shree 👋
 
-<!--
-**tasilareddy/tasilareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student from MANIT Bhopal
 
-Here are some ideas to get you started:
+💻 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial Intelligence & Machine Learning
+* Software Development
+* Research & Innovation
+
+🚀 Currently working on:
+
+* AI/ML Projects
+* Full-Stack Development
+* Research-Oriented Applications
+
+📚 Learning:
+
+* Deep Learning
+* Cybersecurity Fundamentals
+* Advanced Data Structures & Algorithms
+
+🤝 Open to:
+
+* Research Collaborations
+* Internship Opportunities
+* Open-Source Contributions
+
+📫 Connect with me:
+
+* LinkedIn: [https://www.linkedin.com/in/tasila-poorna-shree-065579289/]
+* Email: [tasilapoornashree@gmail.com]
+
+⭐ "Transforming curiosity into code and ideas into reality."
