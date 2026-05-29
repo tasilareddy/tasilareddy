@@ -14,18 +14,6 @@
 * Full-Stack Development
 * Research-Oriented Applications
 
-📚 Learning:
-
-* Deep Learning
-* Cybersecurity Fundamentals
-* Advanced Data Structures & Algorithms
-
-🤝 Open to:
-
-* Research Collaborations
-* Internship Opportunities
-* Open-Source Contributions
-
 📫 Connect with me:
 
 * LinkedIn: [https://www.linkedin.com/in/tasila-poorna-shree-065579289/]
