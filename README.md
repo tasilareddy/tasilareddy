@@ -1,18 +1,10 @@
 # Hi, I'm Tasila Poorna Shree 👋
 
-🎓 Computer Science Engineering student from MANIT Bhopal
+🎓 I am a Computer Science Engineering student at MANIT Bhopal, passionate about exploring technology and continuously expanding my knowledge in the field.
 
-💻 Interested in:
+💻 My primary interests include Artificial Intelligence & Machine Learning, Software Development, and Research & Innovation. I enjoy understanding how technology can be used to solve challenging problems and create meaningful solutions.
 
-* Artificial Intelligence & Machine Learning
-* Software Development
-* Research & Innovation
-
-🚀 Currently working on:
-
-* AI/ML Projects
-* Full-Stack Development
-* Research-Oriented Applications
+🚀 Currently, I am working on Full-Stack Development while constantly learning new tools, frameworks, and technologies to strengthen my technical skills.
 
 📫 Connect with me:
 
